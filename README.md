@@ -2,7 +2,7 @@
 # Demo2
 
 Some text
-New text for push
+New text for pull
 
 ## Instruction
 
